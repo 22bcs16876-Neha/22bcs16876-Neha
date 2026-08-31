@@ -195,7 +195,7 @@ A full-stack food ordering platform with customer site, admin dashboard, and RES
 
 <img src="https://raw.githubusercontent.com/22bcs16876-Neha/22bcs16876-Neha/output/github-contribution-grid-snake.svg" width="95%" />
 
-<sub>Animated automatically from real commit activity — see setup note below.</sub>
+<sub>Animated automatically from real commit activity. Won't render until the <code>snake.yml</code> GitHub Action has been added and run at least once — see setup note at the bottom.</sub>
 
 </div>
 
@@ -205,7 +205,7 @@ A full-stack food ordering platform with customer site, admin dashboard, and RES
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=22bcs16876-Neha&theme=darkhub&no-frame=true&row=1&column=6" />
+<img src="https://github-trophies.vercel.app/?username=22bcs16876-Neha&theme=darkhub&no-frame=true&row=1&column=6" />
 
 </div>
 
@@ -240,3 +240,11 @@ I'm interested in opportunities involving:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
+
+<!--
+SETUP NOTE — Contribution Snake:
+1. In your profile repo (22bcs16876-Neha/22bcs16876-Neha), create .github/workflows/snake.yml
+2. Paste in the snake workflow file (provided separately).
+3. Commit — GitHub Actions will run automatically and create an "output" branch with the SVG.
+4. No changes needed here once that branch exists; the image URL above already points to it.
+-->
