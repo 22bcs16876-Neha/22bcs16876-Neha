@@ -189,32 +189,7 @@ A full-stack food ordering platform with customer site, admin dashboard, and RES
 
 <br/>
 
-## 🐍 Contribution Snake
 
-<div align="center">
-
-<img
-  src="https://raw.githubusercontent.com/22bcs16876-Neha/22bcs16876-Neha/output/github-contribution-grid-snake.svg"
-  width="95%"
-  alt="GitHub Contribution Snake"
-/>
-
-<br/><br/>
-
-<sub>Animated automatically from my GitHub contribution activity.</sub>
-
-</div>
-
-<br/>
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-trophies.vercel.app/?username=22bcs16876-Neha&theme=darkhub&no-frame=true&row=1&column=6" />
-
-</div>
-
-<br/>
 
 ## 🎓 Education
 
