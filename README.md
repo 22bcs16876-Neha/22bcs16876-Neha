@@ -193,14 +193,19 @@ A full-stack food ordering platform with customer site, admin dashboard, and RES
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/22bcs16876-Neha/22bcs16876-Neha/output/github-contribution-grid-snake.svg" width="95%" />
+<img
+  src="https://raw.githubusercontent.com/22bcs16876-Neha/22bcs16876-Neha/output/github-contribution-grid-snake.svg"
+  width="95%"
+  alt="GitHub Contribution Snake"
+/>
 
-<sub>Animated automatically from real commit activity. Won't render until the <code>snake.yml</code> GitHub Action has been added and run at least once — see setup note at the bottom.</sub>
+<br/><br/>
+
+<sub>Animated automatically from my GitHub contribution activity.</sub>
 
 </div>
 
 <br/>
-
 ## 🏆 Trophies
 
 <div align="center">
