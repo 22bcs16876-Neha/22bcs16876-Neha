@@ -191,7 +191,7 @@ Sep 2022 – Jun 2026
 | 📧 Email | nehakumarinandini@gmail.com |
 
 I'm interested in opportunities involving:
-**AI Engineering • Generative AI • Agentic AI • Conversational AI • Voice AI • AI/ML • Data Analysis**
+**AI Engineering • Generative AI • Agentic AI • Conversational AI • Voice AI • AI/ML**
 
 <div align="center">
 
