@@ -1,14 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Neha%20Kumari%20Nandini&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=AI%20Engineer%20%7C%20Generative%20AI%20%7C%20Agentic%20AI%20%7C%20Full-Stack&descSize=18&descAlignY=62" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Neha%20Kumari%20Nandini&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=AI%20Engineer%20%7C%20Software%20Engineer%20%7C%20AI%2FML%20%7C%20Full-Stack&descSize=18&descAlignY=62" width="100%" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=7C6CFF&center=true&vCenter=true&width=800&height=50&lines=Building+Intelligent+AI+Systems;Agentic+AI+%7C+Generative+AI+%7C+Multi-Agent+Systems;Python+%7C+Google+ADK+%7C+Gemini+%7C+Vertex+AI;FastAPI+%7C+React.js+%7C+REST+APIs+%7C+Google+Cloud" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=7C6CFF&center=true&vCenter=true&width=850&height=50&lines=Building+Practical+AI+%26+Software+Systems;AI%2FML+%7C+Generative+AI+%7C+Agentic+AI;Python+%7C+C%2B%2B+%7C+SQL+%7C+Data+Structures;FastAPI+%7C+REST+APIs+%7C+React.js+%7C+Google+Cloud" alt="Typing SVG" />
 
 <br/>
 
 <p>
+  <a href="https://nehak-portfolio.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-7C6CFF?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
   <a href="https://www.linkedin.com/in/neha-k-nandini/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -29,43 +32,94 @@
 
 <br/>
 
+---
+
 ## 👩‍💻 About Me
 
-I'm an **AI Engineer** focused on building practical **Generative AI, Agentic AI, Conversational AI, and full-stack applications**.
+I'm an **AI Engineer and Computer Science graduate** with hands-on experience building **AI/ML, Generative AI, Agentic AI, backend, and full-stack applications**.
 
-My work spans **LLM-powered applications, multi-agent workflows, RAG, tool calling, conversational systems, REST API integrations, authentication, validation, guardrails, evaluation, and cloud deployment**.
+During my internship at **EXL Services**, I worked on enterprise conversational AI systems using **Python, Google ADK, Dialogflow CX, Gemini, and Vertex AI**, with a focus on workflow orchestration, REST API integration, authentication, validation, guardrails, testing, and reliability.
 
-I enjoy working across the stack — from designing intelligent agent workflows to building Python backends, integrating APIs and databases, and deploying AI applications to the cloud.
+I enjoy solving engineering problems across the stack — from designing AI workflows and integrating LLMs to building **Python backends, REST APIs, databases, and cloud-deployed applications**.
+
+My technical foundation includes **C++, OOP, Python, SQL, Data Structures & Algorithms, DBMS, software development, testing, debugging, and SDLC**.
+
+### 🎯 Current Focus
+
+- Artificial Intelligence & Machine Learning
+- Generative AI & LLM Applications
+- Agentic AI & Multi-Agent Systems
+- Backend & REST API Development
+- Cloud-Based AI Applications
+- Software Engineering & Problem Solving
 
 ```yaml
 role: AI Engineer
-focus:
-  - Generative AI
-  - Agentic AI
-  - Conversational AI
-  - Voice AI
-specialization:
-  - Multi-Agent Systems
-  - RAG
-  - Tool Calling
-  - AI Workflows
-primary_stack:
-  - Python
-  - Google ADK
-  - Gemini
-  - Vertex AI
-  - FastAPI
-full_stack:
-  - React.js
-  - JavaScript
-  - REST APIs
-  - SQL
-  - Firestore
-cloud:
-  - Google Cloud
-  - Cloud Run
-  - Docker
 education: B.E. Computer Science & Engineering
 university: Chandigarh University
 cgpa: 8.45
-status: Open to AI Engineering opportunities
+
+experience:
+  - Conversational AI Engineer Intern @ EXL Services
+
+core_programming:
+  - Python
+  - C++
+  - JavaScript
+  - SQL
+
+computer_science:
+  - Data Structures & Algorithms
+  - Object-Oriented Programming
+  - DBMS
+  - Software Engineering
+  - SDLC
+  - Testing & Debugging
+
+ai_ml:
+  - Artificial Intelligence
+  - Machine Learning
+  - Generative AI
+  - Large Language Models
+  - Agentic AI
+  - Multi-Agent Systems
+  - Conversational AI
+  - RAG
+  - Tool Calling
+  - Prompt Engineering
+  - AI Evaluation
+
+backend:
+  - FastAPI
+  - REST APIs
+  - OpenAPI
+  - Authentication
+  - JWT
+  - API Integration
+
+cloud_devops:
+  - Google Cloud
+  - Vertex AI
+  - Cloud Run
+  - Docker
+  - Git
+  - GitHub
+
+databases:
+  - MySQL
+  - Firestore
+  - SQL
+  - Data Modeling
+
+frontend:
+  - React.js
+  - JavaScript
+  - HTML5
+  - CSS3
+
+achievements:
+  leetcode: "460+ DSA & SQL problems"
+  google_cloud: "58 Google Cloud Skill Badges"
+  hackerrank: "SQL (Intermediate) Certification"
+
+status: "Open to AI Engineering & Software Engineering opportunities"
